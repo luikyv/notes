@@ -1,0 +1,2 @@
+class TokenValidationException(Exception):
+    pass
